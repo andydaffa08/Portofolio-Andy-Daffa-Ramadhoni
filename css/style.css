@@ -283,6 +283,10 @@ section {
   object-fit: contain;
   margin-bottom: 15px;
 }
+/* Warna putih untuk ikon yang aslinya hitam */
+.skill-badge img.icon-light {
+  filter: brightness(0) invert(1);
+}
 .skill-badge svg {
   width: 50px;
   height: 50px;
