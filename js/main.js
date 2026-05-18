@@ -156,4 +156,4 @@ filterBtns.forEach(function (btn) {
   });
 });
 
-console.log('✅ JS final: video tanpa panah, gambar multi-project, filter, scroll spy aktif.');
+console.log('✅ JavaScript berhasil dimuat!');
